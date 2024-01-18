@@ -1,0 +1,131 @@
+a {
+    text-decoration: none;
+}
+
+.main-img {
+    background-image: url('../imgs/banner.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: #1e202b;
+}
+
+.search input {
+    background-color: #1e202b;
+    border-radius: 30px;
+    color: white;
+    padding: 15px;
+    border: 1px solid #1e202b;
+    margin-top: 50px;
+}
+
+.card {
+    background-color: #323544;
+    color: white;
+    border-radius: 0px;
+    border-bottom-left-radius: 7px;
+}
+
+.div-head {
+    background-color: #2b2d37;
+}
+
+.div-body h2 {
+    font-size: 80px;
+    line-height: 135px;
+}
+
+.div-body h6 {
+    font-size: 18px;
+    line-height: 27px;
+    color: #bfc1c8;
+}
+
+.div-body p {
+    color: #009ad8;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.div-head h6 {
+    font-size: 14px;
+    line-height: 21px;
+    color: #bfc1c8;
+}
+
+.icons {
+    color: #bfc1c8;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.card2 {
+    background-color: #262936;
+}
+
+.card2 .div-head {
+    background-color: #21232c;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+    color: #009ad8;
+    border-radius: 50px;
+    border: 2px solid #009ad8;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #009ad8;
+}
+
+footer {
+    background-color: #262936;
+}
+
+.footer-icons {
+    margin-top: 70px;
+    color: #009ad8;
+    margin-left: 150px;
+}
+
+.footer-icons i {
+    border-radius: 50%;
+    border: 1px solid transparent;
+    background-color: #1e202b;
+    font-size: 18px;
+    padding: 12px 14px;
+    transition: all ease-in-out 0.2s;
+}
+
+.footer-icons i:hover {
+    color: white;
+    background-color: #009ad8;
+    cursor: pointer;
+}
+
+.footer-search input {
+    width: 65%;
+}
+
+.footer-search p {
+    color: #bfc1c8;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 30px;
+    padding-bottom: 64px;
+}
